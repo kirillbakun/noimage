@@ -1,0 +1,3 @@
+noimage_admin_index:
+    path:     /admin
+    defaults: { _controller: NoimageAdminBundle:Index:index }
